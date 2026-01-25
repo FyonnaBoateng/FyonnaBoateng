@@ -18,7 +18,6 @@ I am a (very casual!!) researcher interested in the intersection of **Human-Comp
 I am currently casually developing reproducible research workflows to analyze:
 1. The psychological impact of **Algorithmic Management** on workforce well-being.
 2. The role of **Transparency and Explainability** in fostering human-AI collaboration.
-3. Quantitative analysis of trust-dynamics using **R**.
 
 ---
 
